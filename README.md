@@ -1,11 +1,11 @@
 
 
-Also a heading
+Git Homework Dat 201
 ==============
 
-Second level heading
+Working on Git!
 --------------------
 
 # git_practice
 
-Some sort of description!
+Space to learn git!
